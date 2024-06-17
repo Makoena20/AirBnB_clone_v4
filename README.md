@@ -1,6 +1,6 @@
 # AirBnB Clone - Version 4
 
-Welcome to the AirBnB clone project! This repository is the fourth iteration of the AirBnB clone, where we introduce dynamic web elements and enhance the functionality using JavaScript, JQuery, and Flask. This project builds upon the previous versions, integrating more advanced features to create a richer user experience.
+Welcome to the AirBnB clone project! This repository is the fourth iteration of the AirBnB clone, where we introduce dynamic web elements and enhance functionality using JavaScript, JQuery, and Flask. This project builds upon the previous versions, integrating more advanced features to create a richer user experience.
 
 ## Authors
 
